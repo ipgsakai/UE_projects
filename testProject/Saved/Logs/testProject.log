@@ -1714,3 +1714,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.25-11.16.32:752][320]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject/Saved/Untitled_1_Auto2B68009994EB9D2481A7F7AA13B64FB73.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
 [2021.04.25-11.16.32:754][320]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.136
 [2021.04.25-11.16.32:754][320]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.136
+[2021.04.25-12.11.52:036][227]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a10aef5b-102c-48bc-a8f9-12b1c16d1a9d}.
+[2021.04.25-12.11.52:036][227]LogTemp: Resetting audio stream to device id 
+[2021.04.25-12.11.52:073][227]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.04.25-12.11.52:073][227]LogAudioMixer: Display: Name: スピーカー (Realtek(R) Audio)
+[2021.04.25-12.11.52:073][227]LogAudioMixer: Display: Is Default: Yes
+[2021.04.25-12.11.52:073][227]LogAudioMixer: Display: Sample Rate: 48000
+[2021.04.25-12.11.52:073][227]LogAudioMixer: Display: Channel Count Used: 2
+[2021.04.25-12.11.52:073][227]LogAudioMixer: Display: Device Channel Count: 2
+[2021.04.25-12.11.52:073][227]LogAudioMixer: Display: Channel Order:
+[2021.04.25-12.11.52:073][227]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-12.11.52:073][227]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-12.11.52:294][228]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{38fad8cd-8b23-43a5-ae6e-116512b68cb0}.
+[2021.04.25-12.11.52:294][228]LogTemp: Resetting audio stream to device id 
+[2021.04.25-12.11.52:339][228]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.04.25-12.11.52:339][228]LogAudioMixer: Display: Name: スピーカー (Realtek(R) Audio)
+[2021.04.25-12.11.52:339][228]LogAudioMixer: Display: Is Default: Yes
+[2021.04.25-12.11.52:339][228]LogAudioMixer: Display: Sample Rate: 48000
+[2021.04.25-12.11.52:339][228]LogAudioMixer: Display: Channel Count Used: 2
+[2021.04.25-12.11.52:339][228]LogAudioMixer: Display: Device Channel Count: 2
+[2021.04.25-12.11.52:339][228]LogAudioMixer: Display: Channel Order:
+[2021.04.25-12.11.52:339][228]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-12.11.52:339][228]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-12.42.13:007][661]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a10aef5b-102c-48bc-a8f9-12b1c16d1a9d}.
+[2021.04.25-12.42.13:007][661]LogTemp: Resetting audio stream to device id 
+[2021.04.25-12.42.13:124][661]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'ヘッドセット (SOUNDPEATS TrueCapsule2 Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.04.25-12.42.13:124][661]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.04.25-12.42.13:124][661]LogAudioMixer: Display: Name: ヘッドセット (SOUNDPEATS TrueCapsule2 Hands-Free AG Audio)
+[2021.04.25-12.42.13:124][661]LogAudioMixer: Display: Is Default: Yes
+[2021.04.25-12.42.13:124][661]LogAudioMixer: Display: Sample Rate: 16000
+[2021.04.25-12.42.13:124][661]LogAudioMixer: Display: Channel Count Used: 2
+[2021.04.25-12.42.13:124][661]LogAudioMixer: Display: Device Channel Count: 1
+[2021.04.25-12.42.13:124][661]LogAudioMixer: Display: Channel Order:
+[2021.04.25-12.42.13:124][661]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-12.42.13:124][661]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-12.42.14:595][662]LogTemp: Resetting audio stream to device id 
+[2021.04.25-12.42.14:673][662]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.04.25-12.42.14:673][662]LogAudioMixer: Display: Name: ヘッドホン (SOUNDPEATS TrueCapsule2 Stereo)
+[2021.04.25-12.42.14:673][662]LogAudioMixer: Display: Is Default: Yes
+[2021.04.25-12.42.14:673][662]LogAudioMixer: Display: Sample Rate: 44100
+[2021.04.25-12.42.14:673][662]LogAudioMixer: Display: Channel Count Used: 2
+[2021.04.25-12.42.14:673][662]LogAudioMixer: Display: Device Channel Count: 2
+[2021.04.25-12.42.14:673][662]LogAudioMixer: Display: Channel Order:
+[2021.04.25-12.42.14:673][662]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-12.42.14:673][662]LogAudioMixer: Display: 1: FrontRight
