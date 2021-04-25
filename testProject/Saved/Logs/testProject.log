@@ -1758,3 +1758,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.25-12.42.14:673][662]LogAudioMixer: Display: Channel Order:
 [2021.04.25-12.42.14:673][662]LogAudioMixer: Display: 0: FrontLeft
 [2021.04.25-12.42.14:673][662]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-13.46.59:995][262]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a10aef5b-102c-48bc-a8f9-12b1c16d1a9d}.
+[2021.04.25-13.46.59:995][262]LogTemp: Resetting audio stream to device id 
+[2021.04.25-13.47.00:037][262]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.04.25-13.47.00:037][262]LogAudioMixer: Display: Name: スピーカー (Realtek(R) Audio)
+[2021.04.25-13.47.00:037][262]LogAudioMixer: Display: Is Default: Yes
+[2021.04.25-13.47.00:037][262]LogAudioMixer: Display: Sample Rate: 48000
+[2021.04.25-13.47.00:037][262]LogAudioMixer: Display: Channel Count Used: 2
+[2021.04.25-13.47.00:037][262]LogAudioMixer: Display: Device Channel Count: 2
+[2021.04.25-13.47.00:037][262]LogAudioMixer: Display: Channel Order:
+[2021.04.25-13.47.00:037][262]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-13.47.00:037][262]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-14.37.01:371][681]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-14.37.01:380][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled_1' with GeneratedClass '/Temp/Untitled_1.TimeOfDay_Default_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled_1'
+[2021.04.25-14.37.01:380][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-14.37.01:380][681]PIE: New page: PIE session: Untitled_1 (Apr 26, 2021, 8:37:01 AM)
+[2021.04.25-14.37.01:380][681]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.04.25-14.37.01:381][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001421s)
+[2021.04.25-14.37.01:382][681]LogAIModule: Creating AISystem for world Untitled_1
+[2021.04.25-14.37.01:382][681]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2021.04.25-14.37.01:382][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002294s)
+[2021.04.25-14.37.01:411][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.04.25-14.37.01:412][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-14.37.01:412][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-14.37.01:412][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-14.37.01:412][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-14.37.01:412][681]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-14.37.01:412][681]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-14.37.01:412][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-14.37.01:412][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-14.37.01:413][681]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-14.37.01:413][681]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-14.37.01:422][681]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.04.25-14.37.01:422][681]LogAudioMixer: Display: Name: スピーカー (Realtek(R) Audio)
+[2021.04.25-14.37.01:422][681]LogAudioMixer: Display: Is Default: Yes
+[2021.04.25-14.37.01:422][681]LogAudioMixer: Display: Sample Rate: 48000
+[2021.04.25-14.37.01:422][681]LogAudioMixer: Display: Channel Count Used: 2
+[2021.04.25-14.37.01:422][681]LogAudioMixer: Display: Device Channel Count: 2
+[2021.04.25-14.37.01:422][681]LogAudioMixer: Display: Channel Order:
+[2021.04.25-14.37.01:422][681]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-14.37.01:422][681]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-14.37.01:440][681]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2021.04.25-14.37.01:441][681]LogInit: FAudioDevice initialized.
+[2021.04.25-14.37.01:446][681]LogLoad: Game class is 'BP_PhotoStageGameMode_C'
+[2021.04.25-14.37.01:447][681]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.04.25-23.37.01
+[2021.04.25-14.37.01:447][681]LogWorld: Bringing up level for play took: 0.000413
+[2021.04.25-14.37.01:447][681]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.04.25-14.37.01:449][681]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.598
+[2021.04.25-14.37.01:449][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled_1' with GeneratedClass '/Temp/Untitled_1.TimeOfDay_Default_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled_1'
+[2021.04.25-14.37.47:665][752]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.25-14.37.47:665][752]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.25-14.37.47:665][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled_1' with GeneratedClass '/Temp/Untitled_1.TimeOfDay_Default_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled_1'
+[2021.04.25-14.37.47:665][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-14.37.47:665][752]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.04.25-14.37.47:665][752]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.25-14.37.47:665][752]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-14.37.47:665][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-14.37.47:696][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-14.37.47:696][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled_1' with GeneratedClass '/Temp/Untitled_1.TimeOfDay_Default_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled_1'
+[2021.04.25-14.37.47:699][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-14.37.47:728][752]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.25-14.37.47:731][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-14.37.47:733][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.04.25-14.37.47:772][754]LogPlayLevel: Display: Destroying online subsystem :Context_6
