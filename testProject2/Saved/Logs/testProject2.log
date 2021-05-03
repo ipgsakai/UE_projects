@@ -4370,3 +4370,185 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.03-06.38.19:976][ 41]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.03-06.38.19:976][ 41]LogContentValidation: Display: Validating World /Game/engine.engine
 [2021.05.03-06.38.19:976][ 41]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/engine_BuiltData.engine_BuiltData
+[2021.05.03-06.48.14:946][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.05.03-06.48.14:948][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/engine' took 0.025
+[2021.05.03-06.48.14:949][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Materials/color_686b6eff] ([1] browsable assets)...
+[2021.05.03-06.48.14:976][750]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/User_Library-Engine_Model/Materials/color_686b6eff.color_686b6eff]
+[2021.05.03-06.48.14:976][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Materials/color_686b6eff]
+[2021.05.03-06.48.14:986][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/color_686b6eff_Auto29B48BD0849F346F8971DADBF853E6585.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Materials/color_686b6eff_Auto2.uasset'
+[2021.05.03-06.48.14:986][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Materials/color_ffbf80ff] ([1] browsable assets)...
+[2021.05.03-06.48.15:006][750]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/User_Library-Engine_Model/Materials/color_ffbf80ff.color_ffbf80ff]
+[2021.05.03-06.48.15:006][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Materials/color_ffbf80ff]
+[2021.05.03-06.48.15:016][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/color_ffbf80ff_Auto26B0AC4F14E4773805AFE4086333DFD84.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Materials/color_ffbf80ff_Auto2.uasset'
+[2021.05.03-06.48.15:017][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Snap_Ring_body1] ([1] browsable assets)...
+[2021.05.03-06.48.15:033][750]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Snap_Ring_body1.User_Library-Engine_Model_Snap_Ring_body1]
+[2021.05.03-06.48.15:033][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Snap_Ring_body1]
+[2021.05.03-06.48.15:059][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/User_Library-Engine_Model_Snap_RD8C6DDBD4E527C2F07CAAE8D2D446C6B.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Snap_Ring_body1_Auto2.uasset'
+[2021.05.03-06.48.15:060][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Ring_body1] ([1] browsable assets)...
+[2021.05.03-06.48.15:072][750]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Ring_body1.User_Library-Engine_Model_Ring_body1]
+[2021.05.03-06.48.15:072][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Ring_body1]
+[2021.05.03-06.48.15:090][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/User_Library-Engine_Model_Ring_b6D68D0744731D12E5B4841A6343C33A7.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Ring_body1_Auto2.uasset'
+[2021.05.03-06.48.15:091][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Pin_body1] ([1] browsable assets)...
+[2021.05.03-06.48.15:102][750]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Pin_body1.User_Library-Engine_Model_Pin_body1]
+[2021.05.03-06.48.15:102][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Pin_body1]
+[2021.05.03-06.48.15:124][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/User_Library-Engine_Model_Pin_bo242E9E0244942061BCB7AEA17778BBD4.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Pin_body1_Auto2.uasset'
+[2021.05.03-06.48.15:125][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Piston_body1] ([1] browsable assets)...
+[2021.05.03-06.48.15:142][750]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Piston_body1.User_Library-Engine_Model_Piston_body1]
+[2021.05.03-06.48.15:142][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Piston_body1]
+[2021.05.03-06.48.15:234][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/User_Library-Engine_Model_PistonB75967014BC1B5DBA4318E82CCEDE28D.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Piston_body1_Auto2.uasset'
+[2021.05.03-06.48.15:235][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Conn__Rod_body1] ([1] browsable assets)...
+[2021.05.03-06.48.15:251][750]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Conn__Rod_body1.User_Library-Engine_Model_Conn__Rod_body1]
+[2021.05.03-06.48.15:251][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Conn__Rod_body1]
+[2021.05.03-06.48.15:400][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/User_Library-Engine_Model_Conn__3818898145EC5E8C6BAEF6BE3C6C4015.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Conn__Rod_body1_Auto2.uasset'
+[2021.05.03-06.48.15:401][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Crank_Shaft_body1] ([1] browsable assets)...
+[2021.05.03-06.48.15:416][750]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Crank_Shaft_body1.User_Library-Engine_Model_Crank_Shaft_body1]
+[2021.05.03-06.48.15:416][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Crank_Shaft_body1]
+[2021.05.03-06.48.15:671][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/User_Library-Engine_Model_Crank_0C11A6314172918CBD505BB37C8CB055.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Crank_Shaft_body1_Auto2.uasset'
+[2021.05.03-06.48.15:672][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_4_] ([1] browsable assets)...
+[2021.05.03-06.48.15:691][750]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_4_.User_Library-Engine_Model_Block_BODY_4_]
+[2021.05.03-06.48.15:691][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_4_]
+[2021.05.03-06.48.16:627][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/User_Library-Engine_Model_Block_D80EE6084FC9D3A0AE98A381A2092A46.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_4__Auto2.uasset'
+[2021.05.03-06.48.16:628][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_3_] ([1] browsable assets)...
+[2021.05.03-06.48.16:640][750]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_3_.User_Library-Engine_Model_Block_BODY_3_]
+[2021.05.03-06.48.16:640][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_3_]
+[2021.05.03-06.48.16:653][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/User_Library-Engine_Model_Block_70A14C77452A072E75DD04A0DFBF0496.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_3__Auto2.uasset'
+[2021.05.03-06.48.16:654][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_2_] ([1] browsable assets)...
+[2021.05.03-06.48.16:673][750]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_2_.User_Library-Engine_Model_Block_BODY_2_]
+[2021.05.03-06.48.16:673][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_2_]
+[2021.05.03-06.48.16:687][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/User_Library-Engine_Model_Block_6AD48C054E7A2A3D1861E697E449AA50.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_2__Auto2.uasset'
+[2021.05.03-06.48.16:687][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_1_] ([1] browsable assets)...
+[2021.05.03-06.48.16:706][750]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_1_.User_Library-Engine_Model_Block_BODY_1_]
+[2021.05.03-06.48.16:706][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_1_]
+[2021.05.03-06.48.16:719][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/User_Library-Engine_Model_Block_95889DAB4F9AAA0E26C2B8AB4937A3EE.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Geometries/User_Library-Engine_Model_Block_BODY_1__Auto2.uasset'
+[2021.05.03-06.48.16:720][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Materials/color_9b8359ff] ([1] browsable assets)...
+[2021.05.03-06.48.16:739][750]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/User_Library-Engine_Model/Materials/color_9b8359ff.color_9b8359ff]
+[2021.05.03-06.48.16:739][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Materials/color_9b8359ff]
+[2021.05.03-06.48.16:750][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/color_9b8359ff_Auto2BC8DE02047CB7B3164C7D185C1BA5C7B.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Materials/color_9b8359ff_Auto2.uasset'
+[2021.05.03-06.48.16:751][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/User_Library-Engine_Model/User_Library-Engine_Model] ([1] browsable assets)...
+[2021.05.03-06.48.16:751][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/User_Library-Engine_Model]
+[2021.05.03-06.48.16:762][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/User_Library-Engine_Model_Auto279AB9CAA42CD0D3B5576E1A210CF55C5.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/User_Library-Engine_Model_Auto2.uasset'
+[2021.05.03-06.48.16:763][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Materials/Master/M_DatasmithCAD] ([1] browsable assets)...
+[2021.05.03-06.48.16:776][750]OBJ SavePackage:     Rendered thumbnail for [Material /Game/User_Library-Engine_Model/Materials/Master/M_DatasmithCAD.M_DatasmithCAD]
+[2021.05.03-06.48.16:776][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Materials/Master/M_DatasmithCAD]
+[2021.05.03-06.48.16:787][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/M_DatasmithCAD_Auto2A6F9413B4E9454CE7F5F28BB3D958068.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Materials/Master/M_DatasmithCAD_Auto2.uasset'
+[2021.05.03-06.48.16:788][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Materials/color_e87108ff] ([1] browsable assets)...
+[2021.05.03-06.48.16:807][750]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/User_Library-Engine_Model/Materials/color_e87108ff.color_e87108ff]
+[2021.05.03-06.48.16:807][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Materials/color_e87108ff]
+[2021.05.03-06.48.16:818][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/color_e87108ff_Auto22FD20CBB4068250204239DB85A3F0F36.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Materials/color_e87108ff_Auto2.uasset'
+[2021.05.03-06.48.16:819][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Materials/color_ffffffff] ([1] browsable assets)...
+[2021.05.03-06.48.16:837][750]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/User_Library-Engine_Model/Materials/color_ffffffff.color_ffffffff]
+[2021.05.03-06.48.16:837][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Materials/color_ffffffff]
+[2021.05.03-06.48.16:846][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/color_ffffffff_Auto2C30C733A4F1F2965DC1A76A04DA75349.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Materials/color_ffffffff_Auto2.uasset'
+[2021.05.03-06.48.16:847][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Materials/color_d3d3d3ff] ([1] browsable assets)...
+[2021.05.03-06.48.16:859][750]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/User_Library-Engine_Model/Materials/color_d3d3d3ff.color_d3d3d3ff]
+[2021.05.03-06.48.16:859][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Materials/color_d3d3d3ff]
+[2021.05.03-06.48.16:870][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/color_d3d3d3ff_Auto2608CFEEB4EE45DC3FF55829C1761E345.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Materials/color_d3d3d3ff_Auto2.uasset'
+[2021.05.03-06.48.16:870][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/User_Library-Engine_Model/Materials/color_dadfdbff] ([1] browsable assets)...
+[2021.05.03-06.48.16:889][750]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/User_Library-Engine_Model/Materials/color_dadfdbff.color_dadfdbff]
+[2021.05.03-06.48.16:889][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Library-Engine_Model/Materials/color_dadfdbff]
+[2021.05.03-06.48.16:899][750]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/color_dadfdbff_Auto2E9EB6B07439C353B936A05848747BDCE.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/User_Library-Engine_Model/Materials/color_dadfdbff_Auto2.uasset'
+[2021.05.03-06.48.16:899][750]LogFileHelpers: Auto-saving content packages took 1.951
+[2021.05.03-06.49.36:347][596]LogD3D12RHI: Creating RTPSO with 117 shaders (116 cached, 1 new) took 35.32 ms. Compile time 30.77 ms, link time 4.42 ms.
+[2021.05.03-06.49.36:396][598]LogD3D12RHI: Creating RTPSO with 119 shaders (117 cached, 2 new) took 35.16 ms. Compile time 30.74 ms, link time 4.29 ms.
+[2021.05.03-06.49.36:440][599]LogD3D12RHI: Creating RTPSO with 120 shaders (119 cached, 1 new) took 35.26 ms. Compile time 30.93 ms, link time 4.19 ms.
+[2021.05.03-06.49.36:521][602]LogD3D12RHI: Creating RTPSO with 121 shaders (120 cached, 1 new) took 35.58 ms. Compile time 31.06 ms, link time 4.40 ms.
+[2021.05.03-06.49.36:650][604]LogD3D12RHI: Creating RTPSO with 122 shaders (121 cached, 1 new) took 34.15 ms. Compile time 29.68 ms, link time 4.35 ms.
+[2021.05.03-06.49.36:660][604]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2021.05.03-06.49.36:660][604]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2021.05.03-06.49.36:700][605]LogD3D12RHI: Creating RTPSO with 124 shaders (122 cached, 2 new) took 36.78 ms. Compile time 32.10 ms, link time 4.53 ms.
+[2021.05.03-06.49.36:763][609]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.03-06.49.36:779][611]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2021.05.03-06.49.36:779][611]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.05.03-06.49.36:779][611]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2021.05.03-06.49.36:779][611]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.05.03-06.49.36:779][611]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.05.03-06.49.36:779][611]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.05.03-06.49.36:823][612]LogD3D12RHI: Creating RTPSO with 125 shaders (124 cached, 1 new) took 39.31 ms. Compile time 33.62 ms, link time 5.39 ms.
+[2021.05.03-06.49.36:863][612]LogD3D12RHI: Creating RTPSO with 126 shaders (125 cached, 1 new) took 38.49 ms. Compile time 31.81 ms, link time 6.50 ms.
+[2021.05.03-06.49.37:104][632]LogD3D12RHI: Creating RTPSO with 127 shaders (126 cached, 1 new) took 42.73 ms. Compile time 38.04 ms, link time 4.51 ms.
+[2021.05.03-06.50.22:408][979]Cmd: ACTOR SELECT OFCLASS CLASS=StaticMeshActor
+[2021.05.03-06.50.50:033][274]Cmd: TRANSACTION UNDO
+[2021.05.03-06.50.50:033][274]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.03-06.57.40:959][916]LogScript: Warning: Accessed None trying to read property RootActor
+	CommonFunctions_CV_C /Game/CollaborativeViewer/Blueprints/FunctionLibrary/CommonFunctions_CV.Default__CommonFunctions_CV_C
+	Function /Game/CollaborativeViewer/Blueprints/FunctionLibrary/CommonFunctions_CV.CommonFunctions_CV_C:GetAttachedActorsInternal:0052
+[2021.05.03-06.58.52:795][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.05.03-06.58.52:798][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/engine" FILE="R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/engine_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.03-06.58.52:984][383]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/engine_Auto3A8C76EF24A14999A1D9926818BD50106.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/Autosaves/Game/engine_Auto3.umap'
+[2021.05.03-06.58.52:987][383]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/engine' took 0.218
+[2021.05.03-06.58.52:987][383]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.218
+[2021.05.03-06.59.04:278][734]Cmd: TRANSACTION UNDO
+[2021.05.03-06.59.04:278][734]LogEditorTransaction: Undo Move Actors
+[2021.05.03-07.00.08:765][342]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a10aef5b-102c-48bc-a8f9-12b1c16d1a9d}.
+[2021.05.03-07.00.08:765][342]LogTemp: Resetting audio stream to device id 
+[2021.05.03-07.00.08:830][342]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.05.03-07.00.08:830][342]LogAudioMixer: Display: Name: スピーカー (Realtek(R) Audio)
+[2021.05.03-07.00.08:830][342]LogAudioMixer: Display: Is Default: Yes
+[2021.05.03-07.00.08:830][342]LogAudioMixer: Display: Sample Rate: 48000
+[2021.05.03-07.00.08:830][342]LogAudioMixer: Display: Channel Count Used: 2
+[2021.05.03-07.00.08:830][342]LogAudioMixer: Display: Device Channel Count: 2
+[2021.05.03-07.00.08:830][342]LogAudioMixer: Display: Channel Order:
+[2021.05.03-07.00.08:830][342]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.00.08:830][342]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.00.08:904][346]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{38fad8cd-8b23-43a5-ae6e-116512b68cb0}.
+[2021.05.03-07.00.08:910][346]LogTemp: Resetting audio stream to device id 
+[2021.05.03-07.00.08:956][346]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.05.03-07.00.08:956][346]LogAudioMixer: Display: Name: スピーカー (Realtek(R) Audio)
+[2021.05.03-07.00.08:956][346]LogAudioMixer: Display: Is Default: Yes
+[2021.05.03-07.00.08:956][346]LogAudioMixer: Display: Sample Rate: 48000
+[2021.05.03-07.00.08:956][346]LogAudioMixer: Display: Channel Count Used: 2
+[2021.05.03-07.00.08:956][346]LogAudioMixer: Display: Device Channel Count: 2
+[2021.05.03-07.00.08:956][346]LogAudioMixer: Display: Channel Order:
+[2021.05.03-07.00.08:956][346]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.00.08:956][346]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.06.11:127][805]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a10aef5b-102c-48bc-a8f9-12b1c16d1a9d}.
+[2021.05.03-07.06.11:235][805]LogTemp: Resetting audio stream to device id 
+[2021.05.03-07.06.11:326][805]LogAudioMixer: Warning: Did not find the channel type flags for audio device 'ヘッドセット (SOUNDPEATS TrueCapsule2 Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.05.03-07.06.11:326][805]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.05.03-07.06.11:326][805]LogAudioMixer: Display: Name: ヘッドセット (SOUNDPEATS TrueCapsule2 Hands-Free AG Audio)
+[2021.05.03-07.06.11:326][805]LogAudioMixer: Display: Is Default: Yes
+[2021.05.03-07.06.11:326][805]LogAudioMixer: Display: Sample Rate: 16000
+[2021.05.03-07.06.11:326][805]LogAudioMixer: Display: Channel Count Used: 2
+[2021.05.03-07.06.11:326][805]LogAudioMixer: Display: Device Channel Count: 1
+[2021.05.03-07.06.11:326][805]LogAudioMixer: Display: Channel Order:
+[2021.05.03-07.06.11:326][805]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.06.11:326][805]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.06.12:907][806]LogTemp: Resetting audio stream to device id 
+[2021.05.03-07.06.12:976][806]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.05.03-07.06.12:976][806]LogAudioMixer: Display: Name: ヘッドホン (SOUNDPEATS TrueCapsule2 Stereo)
+[2021.05.03-07.06.12:976][806]LogAudioMixer: Display: Is Default: Yes
+[2021.05.03-07.06.12:976][806]LogAudioMixer: Display: Sample Rate: 44100
+[2021.05.03-07.06.12:976][806]LogAudioMixer: Display: Channel Count Used: 2
+[2021.05.03-07.06.12:976][806]LogAudioMixer: Display: Device Channel Count: 2
+[2021.05.03-07.06.12:976][806]LogAudioMixer: Display: Channel Order:
+[2021.05.03-07.06.12:976][806]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.06.12:976][806]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.06.24:953][235]Cmd: MODE SCALEGRID=0
+[2021.05.03-07.06.25:515][302]Cmd: MODE SCALEGRID=1
+[2021.05.03-07.07.33:408][373]Cmd: TRANSACTION UNDO
+[2021.05.03-07.07.33:408][373]LogEditorTransaction: Undo Move Actors
+[2021.05.03-07.08.22:839][163]Cmd: TRANSACTION UNDO
+[2021.05.03-07.08.22:839][163]LogEditorTransaction: Undo Move Actors
+[2021.05.03-07.08.44:989][720]Cmd: TRANSACTION UNDO
+[2021.05.03-07.08.44:989][720]LogEditorTransaction: Undo Move Actors
+[2021.05.03-07.09.21:891][ 22]Cmd: TRANSACTION UNDO
+[2021.05.03-07.09.21:891][ 22]LogEditorTransaction: Undo Move Actors
+[2021.05.03-07.11.27:010][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/engine" FILE="R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Content/engine.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-07.11.27:043][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.05.03-07.11.27:234][497]LogSavePackage: Moving 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Saved/engine3F9EBF434AA329BD33FC1188339FEA62.tmp' to 'R:/ipg Dropbox/sakai naoya/UE_projects/testProject2/Content/engine.umap'
+[2021.05.03-07.11.27:244][497]LogFileHelpers: Saving map 'engine' took 0.235
+[2021.05.03-07.11.27:257][497]AssetCheck: New page: Asset Save: engine
+[2021.05.03-07.11.27:257][497]LogContentValidation: Display: Validating World /Game/engine.engine
+[2021.05.03-07.36.49:963][754]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4b624214-5bc7-4f75-a5ac-bc96fab7bb17}.
+[2021.05.03-07.36.50:059][754]LogTemp: Resetting audio stream to device id 
+[2021.05.03-07.36.50:147][754]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.05.03-07.36.50:147][754]LogAudioMixer: Display: Name: ヘッドホン (SOUNDPEATS TrueCapsule2 Stereo)
+[2021.05.03-07.36.50:147][754]LogAudioMixer: Display: Is Default: Yes
+[2021.05.03-07.36.50:147][754]LogAudioMixer: Display: Sample Rate: 44100
+[2021.05.03-07.36.50:147][754]LogAudioMixer: Display: Channel Count Used: 2
+[2021.05.03-07.36.50:147][754]LogAudioMixer: Display: Device Channel Count: 2
+[2021.05.03-07.36.50:147][754]LogAudioMixer: Display: Channel Order:
+[2021.05.03-07.36.50:147][754]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.03-07.36.50:147][754]LogAudioMixer: Display: 1: FrontRight
+[2021.05.03-07.36.50:481][788]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{38fad8cd-8b23-43a5-ae6e-116512b68cb0}.
+[2021.05.03-07.36.50:539][788]LogTemp: Resetting audio stream to device id 
